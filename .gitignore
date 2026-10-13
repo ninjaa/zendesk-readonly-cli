@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.env
+.zendeskrc
+*.pem
+*.key
+*.json
+outputs/
+.DS_Store
